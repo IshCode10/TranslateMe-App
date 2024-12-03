@@ -4,8 +4,6 @@ Submitted by: **Ishmaiah Etienne**
 
 **TranslateMe** is an app that allows the user to have a word, sentence or phrase translated from English to Spanish.
 
-Time spent: **2** hours spent in total
-
 ## Video Walkthrough
 
 <div>
