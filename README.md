@@ -1,24 +1,33 @@
-# **TranslateMe**
+# TranslationMe App 🌐📱
 
-Submitted by: **Ishmaiah Etienne**
+A SwiftUI-based iOS app that provides real-time text translations using the MyMemory REST API and stores translation history with Firebase Firestore.
 
-**TranslateMe** is an app that allows the user to have a word, sentence or phrase translated from English to Spanish.
+## 🚀 Features
+- Translate text from one language to another with a simple UI.
+- Persistent storage of translation history using Firebase Firestore.
+- Option to view, scroll through, and delete translation history.
+- Clean and responsive interface designed with SwiftUI.
 
-## Video Walkthrough
+## 🛠️ Technologies Used
+- **Programming Language**: Swift
+- **Framework**: SwiftUI
+- **Database**: Firebase Firestore
+- **API**: MyMemory REST API
+- **Tools**: Xcode, Git
 
-<div>
-    <a href="https://www.loom.com/share/793d3e1cb0ff4f29a4b5ec74daf9e892">
-    </a>
-    <a href="https://www.loom.com/share/793d3e1cb0ff4f29a4b5ec74daf9e892">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/793d3e1cb0ff4f29a4b5ec74daf9e892-f35bf2055f2185d3-full-play.gif">
-    </a>
-  </div>
+## 📸 Screenshots
+![Screenshot 2024-12-03 103847](https://github.com/user-attachments/assets/259cf83a-71f8-40dd-b00f-de3de9d40787)
 
 
-        http://www.apache.org/licenses/LICENSE-2.0
+![Screenshot 2024-12-03 103902](https://github.com/user-attachments/assets/4e82d5ef-31da-4a4f-88d2-dddc56eba01c)
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+
+## 🖇️ Dependencies
+- FirebaseFirestore
+- MyMemory Translation API
+- FirebaseFirestoreSwift
+## 📚 Learning Outcomes
+- Integrated third-party APIs for real-time translation services.
+- Used Firebase Firestore for data persistence and synchronization.
+- Built an intuitive, user-friendly interface with SwiftUI.
+- Applied asynchronous programming concepts for API calls and Firestore operations.
